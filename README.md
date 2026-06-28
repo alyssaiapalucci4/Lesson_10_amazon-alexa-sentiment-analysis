@@ -14,8 +14,9 @@ This assignment demonstrates data preprocessing, feature engineering, model trai
 
 **Student Name:** Alyssa Iapalucci  
 **Lesson:** Lesson 10 
-**Google Colab Notebook Link:** [Paste your Google Colab link here]  
-**GitHub Repository Link:** [Paste your GitHub repository link here]  
+**Google Colab Notebook Link:** https://colab.research.google.com/drive/1Fpa9wy16V4rpgw81-j3bwMe36uQt32dQ?usp=sharing
+
+**GitHub Repository Link:** 
 
 ---
 
