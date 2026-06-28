@@ -13,7 +13,7 @@ For this assignment, I worked through data cleaning, feature engineering, model 
 **Student Name:** Alyssa Iapalucci  
 **Google Colab Notebook Link:** https://colab.research.google.com/drive/1Fpa9wy16V4rpgw81-j3bwMe36uQt32dQ?usp=sharing
 
-**GitHub Repository Link:** [Paste GitHub Repo Link Here]
+**GitHub Repository Link:** https://github.com/alyssaiapalucci4/Lesson_10_amazon-alexa-sentiment-analysis
 
 ---
 
