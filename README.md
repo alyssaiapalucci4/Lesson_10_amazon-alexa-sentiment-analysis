@@ -53,6 +53,7 @@ Install required libraries:
 
 pip install pandas numpy matplotlib seaborn scikit-learn gensim transformers
 
+```
 
 What the Project Does
 
@@ -121,7 +122,6 @@ Repository Files
 - README.md
 - Lesson_10_Assignment_AI.ipynb
 - amazon_alexa.tsv
-
 
 Conclusion
 
