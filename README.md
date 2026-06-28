@@ -30,9 +30,7 @@ It includes:
 - **verified_reviews** – customer review text
 - **feedback** – sentiment label (1 = positive, 0 = negative)
 
-Dataset file:
-
-`amazon_alexa.tsv`
+Dataset file: `amazon_alexa.tsv`
 
 Source: Public dataset from :contentReference[oaicite:0]{index=0}
 
@@ -55,52 +53,51 @@ Install required libraries:
 
 pip install pandas numpy matplotlib seaborn scikit-learn gensim transformers
 
----
 
 What the Project Does
 
 1. Data Cleaning
-Checks for missing values
-Removes unnecessary columns
+- Checks for missing values
+- Removes unnecessary columns
 
 2. Data Visualization
 
 Creates graphs to show:
 
-Sentiment distribution
-Product variation vs rating
+- Sentiment distribution
+- Product variation vs rating
 
 3. Feature Engineering
 
 Converts text into numbers using:
 
-TF-IDF
-Bag of Words
+- TF-IDF
+= Bag of Words
 
 4. Machine Learning Models
 
 Trains and tests:
 
-Logistic Regression
-SVM
-Random Forest
+- Logistic Regression
+- SVM
+- Random Forest
 
 5. Model Evaluation
 
 Measures model performance using:
 
-Accuracy
-Classification report
-Confusion matrix
-ROC curves
+- Accuracy
+- Classification report
+- Confusion matrix
+- ROC curves
 
 6. Advanced NLP
 
 Also includes:
 
-Word2Vec
-t-SNE visualization
-BERT sentiment testing
+- Word2Vec
+- t-SNE visualization
+- BERT sentiment testing
 
 7. Custom Prediction
 
@@ -110,7 +107,6 @@ Example: predict_sentiment("This product is amazing")
 
 Output: Positive
 
----
 
 ## How to Run
 
@@ -126,10 +122,8 @@ Repository Files
 - Lesson_10_Assignment_AI.ipynb
 - amazon_alexa.tsv
 
----
 
 Conclusion
 
 This project helped me understand how sentiment analysis works using machine learning and NLP. I was able to compare different models and use additional tools like Word2Vec and BERT to explore the data further.
 
----
